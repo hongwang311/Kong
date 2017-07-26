@@ -1,0 +1,11 @@
+/build
+.idea
+*.iml
+*.ipr
+*.iws
+out
+bin/
+gen/
+local.properties
+
+
